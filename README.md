@@ -28,7 +28,10 @@ O sistema é composto por quatro classes principais:
 
 ## 🛠️ Como executar
 
-1. Compile o código:
+1. Clone o repositorio
+2. certifique-se que tem java instalado na sua maquina
+3. compile na ide da sua preferencia.
 
 ```bash
-javac SistemaDeProcessos.java
+git clone https://github.com/eaijessicao/ab1-programacao3.git
+
