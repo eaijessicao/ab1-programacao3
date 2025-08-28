@@ -48,7 +48,7 @@ class Processo {
     public String getNumeroProcesso() {
         return numeroProcesso;
     }
-    public void setNumeroProcesso(Int numeroProcesso) {
+    public void setNumeroProcesso(String numeroProcesso) {
         this.numeroProcesso = numeroProcesso;
     }
 
